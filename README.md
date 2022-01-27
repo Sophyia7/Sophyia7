@@ -3,13 +3,13 @@
 
 
 ## 🚀 About Me
-I'm a Python Developer | Technical Writer 
+I'm a Backend Developer | Technical Writer 
 
 
 
   
 ## 🛠 Skills
-Python, HTML, CSS, Technical Writing, Graphics Design...
+Python, HTML, CSS, Technical Writing, NodeJS...
 
 
 
