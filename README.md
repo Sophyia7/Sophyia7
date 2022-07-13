@@ -1,28 +1,35 @@
 
-# Hi, I'm Sophia! 👋 👩🏽‍💻
+# Hello there! 👋 👩🏽‍💻
 
 
-## 🚀 About Me
-I'm a Backend Engineer | Technical Writer 
+
+I am Sophia, a self-taught backend engineer and technical writer from Africa/Nigeria. I love turning ideas into functional backend systems and documenting technical concepts to help newbies understand tech better. I have over 2 years of experience designing and building software to enhance end-user functionality. 
+
+Logic, Communication and Teamwork are my greatest strengths.
+
+
+**Things I am into:**
+- Planning,
+- Building structures,
+- Designing systems,
+- Learning new technolgies. 
+
+
+With what I said...
+  - 💼 If you are looking for a talented Backend (Python) software engineer that speaks in RESTful APIs, and loves technical documentation or on a contract role. Feel free to reach out to me via this [email](mailto:iroegbusophia3@gmail.com) :)
+  - 💬I run a [blog](http://sophyia.me/) where I talk about tech from time to time. You can also ask me about anything on Python, Backend Development, APIs, & Django; I will be happy to help!
 
 
 
   
-## 🛠 Skills
-Python, HTML, CSS, Technical Writing, NodeJS...
+## Languages and Tools:
+
+ Python, Django, MySQL, PostgreSQL, VsCode, PyCharm, Git.
 
 
 
   
-## Tech Stack
-
- Flask, Django, Bootstrap
-
-
-
-  
-## 🔗 Links
-[![Personal Blog](https://img.shields.io/badge/my_blog-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sophyia.me/)
+## 🔗 You can reach me 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-iroegbu-05816519a/)
 
