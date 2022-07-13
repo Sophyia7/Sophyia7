@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Backend Developer | Technical Writer 
+I'm a Backend Engineer | Technical Writer 
 
 
 
