@@ -10,10 +10,16 @@ Here are a few things that light up my tech-centric world:
 
 - **Planning**
 - **Building structures**
-- **Designing systems**: 
+- **Designing systems**
 - **Learning new technologies**
 
 In addition to my backend engineering skills, I'm equally passionate about community building and developer advocacy. As a developer advocate, I write code and cultivate inclusive and vibrant developer communities where knowledge-sharing and collaboration thrive. Through workshops, meetups, and online forums, I aim to empower developers, especially those from underrepresented backgrounds, to unlock their full potential and make meaningful contributions to the tech ecosystem.
+
+Here are a few projects I contribute to as a Developer Advocate at Pieces:
+- [Open Source by Pieces (OSP)](https://github.com/pieces-app/opensource)
+- [Starter TypeScript](https://github.com/pieces-app/example-typescript)
+- [Vanilla Copilot-TS](https://github.com/pieces-app/pieces-copilot-vanilla-typescript-example)
+  
 
 💼 If you're looking for a seasoned Backend (Python) software engineer who excels in crafting RESTful APIs and thrives on technical documentation, I'm here and eager to collaborate! Feel free to contact me via this [email](mailto:iroegbusophia3@gmail.com).
 
