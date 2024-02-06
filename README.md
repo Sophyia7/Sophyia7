@@ -8,10 +8,10 @@ My journey in technology has been shaped by three pillars: Logic, Communication,
 
 Here are a few things that light up my tech-centric world:
 
-- **Planning**: I thrive on strategically mapping out the architecture and design of scalable backend systems, ensuring they align seamlessly with the intended functionalities and user experiences.
-- **Building structures**: Crafting elegant solutions from the ground up is where I find my stride. Whether it's designing database schemas or architecting microservices, I'm always driven by the pursuit of structural excellence.
-- **Designing systems**: Creating robust, efficient, and maintainable systems is not just a job for me—it's a passion. I believe in crafting solutions that stand the test of time and evolve alongside the ever-changing demands of the digital landscape.
-- **Learning new technologies**: The tech world moves at lightning speed, and I'm always eager to stay ahead of the curve by immersing myself in the latest tools, frameworks, and best practices.
+- **Planning**
+- **Building structures**
+- **Designing systems**: 
+- **Learning new technologies**
 
 In addition to my backend engineering skills, I'm equally passionate about community building and developer advocacy. As a developer advocate, I write code and cultivate inclusive and vibrant developer communities where knowledge-sharing and collaboration thrive. Through workshops, meetups, and online forums, I aim to empower developers, especially those from underrepresented backgrounds, to unlock their full potential and make meaningful contributions to the tech ecosystem.
 
