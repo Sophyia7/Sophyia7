@@ -2,9 +2,9 @@
 # Hello there! 👋 👩🏽‍💻
 
 
-I'm Sophia, a self-taught backend engineer and technical writer from Africa/Nigeria. I find immense joy in transforming abstract ideas into robust backend systems. With over 3 years of hands-on experience in crafting and implementing software solutions that amplify end-user experiences, I've honed my skills in Python-based backend development and technical documentation.
+I'm Sophyia, a backend engineer and technical writer from Africa/Nigeria. I find immense joy in transforming abstract ideas into robust backend systems. With over 3 years of hands-on experience in implementing software solutions that amplify end-user experiences, I've honed my skills in Python-based backend development and technical documentation. Currently, I am exploring Gen AI and building projects as I learn. 
 
-My journey in technology has been shaped by three pillars: Logic, Communication, and Teamwork. These strengths have been instrumental in navigating the dynamic landscapes of backend engineering and community advocacy.
+My tech journey has been shaped by Logic, Communication, and Teamwork. These strengths have been instrumental in navigating the dynamic landscapes of backend engineering and community advocacy.
 
 Here are a few things that light up my tech-centric world:
 
@@ -13,12 +13,7 @@ Here are a few things that light up my tech-centric world:
 - **Designing systems**
 - **Learning new technologies**
 
-In addition to my backend engineering skills, I'm equally passionate about community building and developer advocacy. As a developer advocate, I write code and cultivate inclusive and vibrant developer communities where knowledge-sharing and collaboration thrive. Through workshops, meetups, and online forums, I aim to empower developers, especially those from underrepresented backgrounds, to unlock their full potential and make meaningful contributions to the tech ecosystem.
-
-Here are a few projects I contribute to as a Developer Advocate at Pieces:
-- [Open Source by Pieces (OSP)](https://github.com/pieces-app/opensource)
-- [Starter TypeScript](https://github.com/pieces-app/example-typescript)
-- [Vanilla Copilot-TS](https://github.com/pieces-app/pieces-copilot-vanilla-typescript-example)
+In addition to my backend engineering skills, I'm equally passionate about community building and developer advocacy. As a developer advocate, I write code and cultivate inclusive and vibrant developer communities where knowledge-sharing and collaboration thrive. Through workshops, meetups, and online forums, I aim to teach developers, especially those from underrepresented backgrounds, to unlock their full potential and make meaningful contributions to the tech ecosystem.
   
 
 💼 If you're looking for a seasoned Backend (Python) software engineer who excels in crafting RESTful APIs and thrives on technical documentation, I'm here and eager to collaborate! Feel free to contact me via this [email](mailto:iroegbusophia3@gmail.com).
@@ -30,7 +25,7 @@ Let's connect, collaborate, and code together towards a brighter, more inclusive
   
 ## Languages and Tools:
 
- Python, Django, MySQL, PostgreSQL, VsCode, PyCharm, Git, Docker, SQL.
+ Python, Django, Flask, MySQL, PostgreSQL, VsCode, PyCharm, Git, Docker, SQL, Streamlit.
 
   
 ## 🔗 You can reach me 
