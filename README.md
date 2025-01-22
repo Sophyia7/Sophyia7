@@ -7,7 +7,7 @@ Hi! I'm Sophia Iroegbu, a self-taught Python developer with a strong focus on cl
 👩‍💻 On this GitHub, you'll find projects related to Python, DevOps, cloud infrastructure, and technical tutorials I’ve written. I’m passionate about simplifying complex concepts, sharing knowledge, and fostering growth within developer communities.
 
 
-💬 I share insights and experiences on my [blog](http://sophyia.me/), covering Python, Backend Development, APIs, and Django. Whether you're looking for advice or tech discussions, I'm here for it!
+💬 I share insights and experiences on my [blog](http://sophyia.me/) and [YouTube](https://www.youtube.com/@sophyiairoegbu), covering Python, Backend Development, APIs, Django, DevRel and community management. 
 
 Passionate about building impactful projects with Python and Django and sharing knowledge through DevRel, speaking, and technical writing. Let's collaborate and create something great!
 
