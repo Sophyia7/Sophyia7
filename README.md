@@ -2,25 +2,14 @@
 # Hello there! 👋 👩🏽‍💻
 
 
-I'm Sophyia, a backend engineer and technical writer from Africa/Nigeria. I find immense joy in transforming abstract ideas into robust backend systems. With over 3 years of hands-on experience in implementing software solutions that amplify end-user experiences, I've honed my skills in Python-based backend development and technical documentation. Currently, I am exploring Gen AI and building projects as I learn. 
+Hi! I'm Sophia Iroegbu, a self-taught Python developer with a strong focus on cloud technologies (Azure), containerization (Docker), and technical writing. I began my coding journey in 2020 and entered the professional field in 2021. I’m also experienced in Developer Relations (DevRel), where I engage with tech communities, create educational resources, and help developers succeed with practical tools and solutions.
 
-My tech journey has been shaped by Logic, Communication, and Teamwork. These strengths have been instrumental in navigating the dynamic landscapes of backend engineering and community advocacy.
+👩‍💻 On this GitHub, you'll find projects related to Python, DevOps, cloud infrastructure, and technical tutorials I’ve written. I’m passionate about simplifying complex concepts, sharing knowledge, and fostering growth within developer communities.
 
-Here are a few things that light up my tech-centric world:
 
-- **Planning**
-- **Building structures**
-- **Designing systems**
-- **Learning new technologies**
+💬 I share insights and experiences on my [blog](http://sophyia.me/), covering Python, Backend Development, APIs, and Django. Whether you're looking for advice or tech discussions, I'm here for it!
 
-In addition to my backend engineering skills, I'm equally passionate about community building and developer advocacy. As a developer advocate, I write code and cultivate inclusive and vibrant developer communities where knowledge-sharing and collaboration thrive. Through workshops, meetups, and online forums, I aim to teach developers, especially those from underrepresented backgrounds, to unlock their full potential and make meaningful contributions to the tech ecosystem.
-  
-
-💼 If you're looking for a seasoned Backend (Python) software engineer who excels in crafting RESTful APIs and thrives on technical documentation, I'm here and eager to collaborate! Feel free to contact me via this [email](mailto:iroegbusophia3@gmail.com).
-
-💬 I also curate insights and share experiences on my [blog](http://sophyia.me/), delving into topics ranging from Python and Backend Development to APIs and Django. Whether you seek advice or want to dive into tech discussions, I'm all ears!
-
-Let's connect, collaborate, and code together towards a brighter, more inclusive tech future.
+Passionate about building impactful projects with Python and Django and sharing knowledge through DevRel, speaking, and technical writing. Let's collaborate and create something great!
 
   
 ## Languages and Tools:
