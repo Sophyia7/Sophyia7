@@ -13,14 +13,15 @@ Passionate about building impactful projects with Python and Django and sharing 
 
   
 ## Languages and Tools:
+ <img src="https://skillicons.dev/icons?i=python,django,html,css,flask,mysql,postgresql,vscode,pycharm,git,docker,streamlit" title="Python, Django, HTML, CSS, Flask, MySQL, PostgreSQL, Docker, Streamlit" alt="Python, Django, HTML, CSS, Flask, MySQL, PostgreSQL, Docker, Streamlit" /> <br /><br />
+ 
 
- Python, Django, Flask, MySQL, PostgreSQL, VsCode, PyCharm, Git, Docker, SQL, Streamlit.
-
+## 🔗 Connect with me
+[![website](https://img.shields.io/badge/web-A21432?style=for-the-badge&logo=globe&logoColor=white)](https://sophia-iroegbu.vercel.app/)
+[![blog](https://img.shields.io/badge/blog-A21432?style=for-the-badge&logo=globe&logoColor=white)](https://sophyia.me)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sophyairoegbu)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/sophiairoegbu_)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-iroegbu/)
   
-## 🔗 You can reach me 
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-iroegbu-05816519a/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sophiairoegbu_/)
 
   
