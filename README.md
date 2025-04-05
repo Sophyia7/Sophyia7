@@ -19,7 +19,7 @@ Passionate about building impactful projects with Python and Django and sharing 
 ## 🔗 Connect with me
 [![website](https://img.shields.io/badge/web-A21432?style=for-the-badge&logo=globe&logoColor=white)](https://sophia-iroegbu.vercel.app/)
 [![blog](https://img.shields.io/badge/blog-A21432?style=for-the-badge&logo=globe&logoColor=white)](https://sophyia.me)
-[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sophyairoegbu)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sophyiairoegbu)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/sophiairoegbu_)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-iroegbu/)
   
